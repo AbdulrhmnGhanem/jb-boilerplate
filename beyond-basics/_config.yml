@@ -1,0 +1,8 @@
+# Book settings
+title: ما بعد الاساسيات
+author: Abdulrhmn Ghanem & Noor Eldeen Salah
+logo: logo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
